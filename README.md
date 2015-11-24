@@ -1,6 +1,6 @@
 # Raspberry-Pi
 Image Processing On Raspberry-Pi 2
-My Chinese is better than English. :blush: It will be very nice of you to point out the error(code or English).
+My Chinese is better than English. It will be very nice of you to point out the error(code or English).
 
 This is the work from my Lab.
 We need to impove the visibility of the image from the camera. This need to be real-time and well improved.
